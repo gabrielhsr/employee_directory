@@ -1,0 +1,12 @@
+CREATE TABLE `employees` (
+  `id` varchar(15) NOT NULL,
+  `position` text NOT NULL,
+  `registration` text NOT NULL,
+  `name` text NOT NULL,
+  `function` text NOT NULL,
+  `department` text NOT NULL,
+  `location` text NOT NULL,
+  `mail` text NOT NULL,
+  `phone` text NOT NULL,
+  `photo` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

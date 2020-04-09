@@ -1,0 +1,10 @@
+﻿- Form Validator
+	-- Registration Number (Max Characters)
+	-- Employee Name (First capital letter - No numbers - Max Characters)
+	-- Function (First capital letter - Max Characters)
+	-- Department (First capital letter - Max Characters)
+	-- Location (First capital letter - Max Characters)
+	-- Phone Extension (Only Number)
+- Search Mode
+- Login Mode for Administrator
+- Expand Mode with More Info of Employee
