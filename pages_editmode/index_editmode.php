@@ -53,7 +53,7 @@
 	<div id="modal">
 		<div id="modal_content">
 			<span id="modal_close">&times;</span>
-			<iframe id="iframe_register" src="/resources/register/register_form.php"></iframe>
+			<iframe id="iframe_register" src="/resources/register/register_form.html"></iframe>
 		</div>
 	</div>
 
